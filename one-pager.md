@@ -1,21 +1,25 @@
 # Pioneer Valley Housing Co-op Seeks Property 
 
-Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
+Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. Stability of homeownership with the flexible commitment of renting. We envision:
 
-**Community**: We believe that resident wellbeing and community wellbeing are interdependent.
-* Multiple homes clustered around common spaces and shared resources  
-* Engaged with local community through public access spaces and events
-* Room for creative projects and enterprises
-* Stability of homeownership with the flexible commitment of renting
-* Collective decision making and conflict mediation
-
+Values:
+**Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
+**Community:** We believe that resident wellbeing and community wellbeing is interdependent.
 **Equity**: We believe housing should be decommodified to be affordable and democratically governed.
+**Stewardship:** We believe land should be stewarded for the community, not speculative profits.
+
+(Optional) Community
+* Multiple homes clustered around common spaces and shared resources  
+* Room for creative projects and enterprises
+* Engagement with local community through public access spaces and events
+**Democratic** 
 * Housing co-op will own assets as a group, with residents as equal voting members
+* Collective decision making and conflict mediation
+**Affordable** 
 * [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned when they move out
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
-**Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
 * Food sovreignty egenerative agriculture 
