@@ -9,7 +9,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Stability of homeownership with the flexible commitment of renting
 * Collective decision making and conflict mediation
 
-**Equity**: We believe housing is a right and should be affordable and democratically governed.
+**Equity**: We believe housing should be decommodified to be affordable and democratically governed.
 * Housing co-op will own assets as a group, with residents as equal voting members
 * [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned when they move out
 * Initial funds will be raised from grants and community investors, not residents
