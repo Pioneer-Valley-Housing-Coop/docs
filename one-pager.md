@@ -5,7 +5,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 **Community**: We believe that resident wellbeing and community wellbeing are interdependent.
 * Multiple homes clustered around common spaces and shared resources  
 * Engaged with local community through public access spaces and events
-* Supportive of local enterprises and creative projects 
+* Room for creative projects and enterprises
 * Stability of homeownership with the flexible commitment of renting
 * Collective decision making and conflict mediation
 
