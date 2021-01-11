@@ -1,6 +1,6 @@
 # Pioneer Valley Housing Co-op Seeks Property 
 
-Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op where we can collectively invest in ourselves, our community, and the environment.
+Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
 **Community**: We believe that resident wellbeing and community wellbeing are interdependent.
 * Multiple homes clustered around common spaces and shared resources  
@@ -27,7 +27,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * We are in conversation with [Mount Grace Land Conservation Trust](https://www.mountgrace.org/) to help find a property
 
 **Ways to Support**
-* We are looking for access to land either by donation, agreement or sale with the possibility of the landowner continuing occupancy. 
+* We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. 
 * We would love to connect with like-minded people and organizations
 * Link to survey
 
