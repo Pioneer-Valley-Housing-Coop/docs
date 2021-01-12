@@ -12,9 +12,11 @@ Values:
 * Multiple homes clustered around common spaces and shared resources  
 * Room for creative projects and enterprises
 * Engagement with local community through public access spaces and events
+
 **Democratic** 
 * Housing co-op will own assets as a group, with residents as equal voting members
 * Collective decision making and conflict mediation
+
 **Affordable** 
 * [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned when they move out
 * Initial funds will be raised from grants and community investors, not residents
