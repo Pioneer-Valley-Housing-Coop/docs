@@ -28,7 +28,7 @@ We believe land should be stewarded for the community, not speculative profits.
 * Member of renewable energy co-op
 * Food sovreignty through regenerative agriculture 
 
-**Stewardship**: We believe land should be stewarded for the community, not speculative profits.
+**Stewardship**: 
 * A community land trust will own the land permanently, and have a say in resale
 * The housing co-op will own the buildings and lease the land from the land trust
 * The land trust and other community stakeholders will be voting members of the co-op 
