@@ -4,13 +4,10 @@ Are you interested in housing that fosters community, equity, sustainability, an
 
 Values:
 
-**Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
-
-**Community:** We believe that resident wellbeing and community wellbeing is interdependent.
-
-**Equity**: We believe housing should be decommodified to be affordable and democratically governed.
-
-**Stewardship:** We believe land should be stewarded for the community, not speculative profits.
+We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
+We believe that resident wellbeing and community wellbeing is interdependent.
+We believe housing should be decommodified to be affordable and democratically governed.
+We believe land should be stewarded for the community, not speculative profits.
 
 (Optional) Community
 * Multiple homes clustered around common spaces and shared resources  
@@ -26,6 +23,7 @@ Values:
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
+**Sustainability**:
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
 * Food sovreignty through regenerative agriculture 
