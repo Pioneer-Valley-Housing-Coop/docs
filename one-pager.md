@@ -28,7 +28,7 @@ Values:
 
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
-* Food sovreignty egenerative agriculture 
+* Food sovreignty through regenerative agriculture 
 
 **Stewardship**: We believe land should be stewarded for the community, not speculative profits.
 * A community land trust will own the land permanently, and have a say in resale
