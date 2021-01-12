@@ -1,15 +1,19 @@
 # Pioneer Valley Housing Co-op Seeks Property 
 
-Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
-
-We believe housing should support wellbeing of residents, community, and broader local network. We believe housing should be decommodified to be affordable and democratically governed. We believe land should be stewarded for the community, not speculative profits.We wish to support closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
-
-Stability of homeownership with the flexible commitment of renting. why not cohousing or ecovillage other intentional community?
-
-(Optional) Community
+Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We aim to create: 
 * Multiple homes clustered around common spaces and shared resources  
 * Room for creative projects and enterprises
 * Engagement with local community through public access spaces and events
+
+We seek an alterntive that provides:
+* Flexible commitment of renting without losing money to landlord
+* Stability and control of traditional homeownership without isolation
+* Community of cohousing or ecovillage without financial inaccessibility or cultural conformity/ too intentional? 
+
+We believe: 
+* Housing should support wellbeing of residents, community, and broader local network. 
+* Housing and land should be decommodified, to be stewarded by and for the community, not speculative profits.
+* Closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
 
 **Democratic** 
 * Housing co-op will own assets as a group, with residents as equal voting members
