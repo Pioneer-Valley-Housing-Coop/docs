@@ -21,6 +21,10 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
+**Just**
+* Housing and land should be decommodified and stewarded by and for the community, not speculative profits.
+* Closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
+
 **Sustainability**:
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
@@ -30,10 +34,6 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * A community land trust will own the land permanently, and have a say in resale
 * The housing co-op will own the buildings and lease the land from the land trust
 * The land trust and other community stakeholders will be voting members of the co-op 
-
-**Just**
-* Housing and land should be decommodified and stewarded by and for the community, not speculative profits.
-* Closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
 
 **Ways to Support**
 * We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. 
