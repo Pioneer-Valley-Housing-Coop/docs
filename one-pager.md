@@ -3,9 +3,13 @@
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. Stability of homeownership with the flexible commitment of renting. We envision:
 
 Values:
+
 **Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
+
 **Community:** We believe that resident wellbeing and community wellbeing is interdependent.
+
 **Equity**: We believe housing should be decommodified to be affordable and democratically governed.
+
 **Stewardship:** We believe land should be stewarded for the community, not speculative profits.
 
 (Optional) Community
