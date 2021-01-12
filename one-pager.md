@@ -1,11 +1,13 @@
 # Pioneer Valley Housing Co-op Seeks Property 
 
-Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We aim to create: 
+Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. W
+
+We aim to create: 
 * Multiple homes clustered around common spaces and shared resources  
 * Room for creative projects and enterprises
-* Engagement with local community through public access spaces and events
+* Public access spaces and events
 
-We seek an alterntive that provides:
+We seek an alternative that provides:
 * Flexible commitment like renting without losing money to landlord
 * Stability and control of traditional homeownership without isolation
 * Community of cohousing or ecovillage without financial inaccessibility or cultural conformity/ too intentional? 
