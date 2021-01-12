@@ -6,7 +6,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Engagement with local community through public access spaces and events
 
 We seek an alterntive that provides:
-* Flexible commitment of renting without losing money to landlord
+* Flexible commitment like renting without losing money to landlord
 * Stability and control of traditional homeownership without isolation
 * Community of cohousing or ecovillage without financial inaccessibility or cultural conformity/ too intentional? 
 
@@ -33,7 +33,6 @@ We believe:
 * A community land trust will own the land permanently, and have a say in resale
 * The housing co-op will own the buildings and lease the land from the land trust
 * The land trust and other community stakeholders will be voting members of the co-op 
-* We are in conversation with [Mount Grace Land Conservation Trust](https://www.mountgrace.org/) to help find a property
 
 **Ways to Support**
 * We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. 
