@@ -2,6 +2,8 @@
 
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
+ We aim to support community and resident wellbeing through being democratic and affordable through our structure as a group equity housing co-op. 
+ 
 **Community** 
 * Multiple homes clustered around common spaces and shared resources  
 * Room for creative projects and enterprises
@@ -21,9 +23,11 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
+We aim to live sustainably through community stewardship for a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf 
+
 **Just**
 * Housing and land should be decommodified and stewarded by and for the community, not speculative profits.
-* Closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
+* Closed-loop, regenerative systems to support abundance and resilience away from an extractive economy.
 
 **Sustainability**:
 * Net-zero buildings using passive solar 
