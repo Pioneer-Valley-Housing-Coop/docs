@@ -18,7 +18,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 **Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition away](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) from an extractive economy.
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
-* Food sovreignty egenerative agriculture 
+* Food sovreignty through regenerative agriculture 
 
 **Stewardship**: We believe land should be stewarded for the community, not speculative profits.
 * A community land trust will own the land permanently, and have a say in resale
