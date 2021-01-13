@@ -1,6 +1,6 @@
 # Pioneer Valley Housing Co-op Launch!
 
-Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. We would love to connect with like-minded people and organizations with the following values:
+Are you interested in housing that is more than just a place to live? Perhaps a home? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We are currently looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. We would love to connect with like-minded people and organizations. 
 
 **Safe and Pleasant:** We aim to support community and resident wellbeing through balancing independence and interdependence.
 * *Community*
@@ -21,7 +21,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
   * Initial funds will be raised from grants and community investors, not residents
   * Residents will pay monthly costs to repay community investors 
 * *Just*
-  * Housing and land should be decommodified and stewarded by and for the community, not speculative profits.
+  * Housing and land should be decommodified and stewarded by and for the community for generations to come, not speculative profits.
   * Closed-loop, regenerative systems to support abundance and resilience, as part of a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) away from an extractive economy.
 
 **Sustainable:** We aim to live sustainably and steward land to promote healthy ecosystems and people.
