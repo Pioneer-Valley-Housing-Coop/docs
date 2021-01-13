@@ -42,6 +42,6 @@ Are you interested in housing that fosters community, equity, sustainability, an
 **Ways to Support**
 * We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. 
 * We would love to connect with like-minded people and organizations
-* Link to survey
+* Link to website, survey, meetings, email 
 
 ## [pvhousingcoop@gmail.com](pvhousingcoop@gmail.com)
