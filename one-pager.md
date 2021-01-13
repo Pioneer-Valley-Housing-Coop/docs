@@ -1,6 +1,6 @@
 # Pioneer Valley Housing Co-op Launch!
 
-Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
+Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. We would love to connect with like-minded people and organizations with the following values:
 
 **Safe and Pleasant:** We aim to support community and resident wellbeing through balancing independence and interdependence.
 * *Community*
@@ -34,9 +34,6 @@ Are you interested in housing that fosters community, equity, sustainability, an
   * The housing co-op will own the buildings and lease the land from the land trust
   * The land trust and other community stakeholders will be voting members of the co-op 
 
-**Ways to Support**
-* We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. 
-* We would love to connect with like-minded people and organizations
+**Ways to Connect**
 * Link to website, survey, meetings, email 
-
 ## [pvhousingcoop@gmail.com](pvhousingcoop@gmail.com)
