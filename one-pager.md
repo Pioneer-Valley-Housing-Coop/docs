@@ -15,7 +15,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
-**Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition] (https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) away from an extractive economy.
+**Sustainability**: We believe in closed-loop, regenerative systems to support abundance and resilience as part of a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) away from an extractive economy.
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
 * Food sovreignty through regenerative agriculture 
