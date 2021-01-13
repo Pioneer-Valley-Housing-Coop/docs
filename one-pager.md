@@ -12,7 +12,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
   * Groundedness of traditional homeownership 
   * Social life of cohousing/college
 
-**Equitable:** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
+**Equitable:** We aim to be democratic, affordable and just by structuring as a group equity housing co-op. 
 * *Democratic*
   * Housing co-op will own assets as a group, with residents as equal voting members
   * Collective decision making and conflict mediation
