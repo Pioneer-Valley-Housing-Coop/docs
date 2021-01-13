@@ -21,7 +21,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Collective decision making and conflict mediation
 
 *Affordable* 
-* [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned when they move out
+* [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned on move out
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
