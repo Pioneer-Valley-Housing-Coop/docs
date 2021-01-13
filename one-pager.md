@@ -6,7 +6,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Multiple private homes clustered around common spaces with shared resources  
 * Engaged locally through public access spaces and events
 * Room for creative projects and businesses
-* Residents 
+* For Residents: 
    * Flexibility of renting
    * Groundedness of traditional homeownership 
    * Social life of cohousing/college
