@@ -2,7 +2,7 @@
 
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
-**Community** We aim to support resident and comunity wellbeing through designing spaces that balance independence and interdependence.
+**Community** We aim to support resident and comunity wellbeing through spaces that balance independence and interdependence.
 
 *Designed to supp*
 * Multiple homes clustered around shared spaces and resources  
