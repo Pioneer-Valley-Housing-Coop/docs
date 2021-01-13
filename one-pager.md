@@ -4,7 +4,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 
 **Community** We aim to support resident and comunity wellbeing through balancing independence and interdependence.
 * Multiple homes clustered around shared spaces and resources  
-* Engagement with local community through public access spaces and events
+* Engaged locally through public access spaces and events
 * Room for creative projects and businesses
 
 *For Residents:*
