@@ -2,7 +2,7 @@
 
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
-**Safe and Pleasant:** We aim to support resident and community wellbeing through balancing independence and interdependence.
+**Safe and Pleasant:** We aim to support community and resident wellbeing through balancing independence and interdependence.
 
 *Community*
 * Multiple private homes clustered around common spaces with shared resources  
