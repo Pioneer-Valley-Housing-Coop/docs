@@ -6,10 +6,10 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Multiple private homes clustered around common spaces with shared resources  
 * Engaged locally through public access spaces and events
 * Room for creative projects and businesses
-* For Residents: 
-   * Flexibility of renting
-   * Groundedness of traditional homeownership 
-   * Social life of cohousing/college
+* Benefits for residents: 
+  * Flexibility of renting
+  * Groundedness of traditional homeownership 
+  * Social life of cohousing/college
 
 **Equity** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
  
