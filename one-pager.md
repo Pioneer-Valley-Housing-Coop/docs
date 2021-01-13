@@ -3,20 +3,24 @@
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
 **Community** We see resident and comunity wellbeing as interdependent and stregnthened by common values and different backgrounds.
-  *Community*
+ 
+*Community*
 * Multiple homes clustered around common spaces and shared resources  
 * Room for creative projects and enterprises
 * Public access spaces and events
-  *Resident Wellbeing*
+
+*Resident Wellbeing*
 * Flexible commitment of renting
 * Security and control of traditional homeownership
 * Social life of cohousing 
 
 **Equity** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
-  *Democratic*
+ 
+ *Democratic*
 * Housing co-op will own assets as a group, with residents as equal voting members
 * Collective decision making and conflict mediation
-  *Affordable* 
+
+*Affordable* 
 * [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned when they move out
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
