@@ -2,7 +2,7 @@
 
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
-**Safe and Pleasant** We aim to support resident and community wellbeing through balancing independence and interdependence.
+**Safe and Pleasant:** We aim to support resident and community wellbeing through balancing independence and interdependence.
 
 *Community*
 * Multiple private homes clustered around common spaces with shared resources  
@@ -14,7 +14,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Groundedness of traditional homeownership 
 * Social life of cohousing/college
 
-**Equity** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
+**Equity:** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
  
 *Democratic*
 * Housing co-op will own assets as a group, with residents as equal voting members
@@ -25,12 +25,14 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
-**Sustainability**
+**Ecological:** We aim to live sustainably and steward land to promote healthy ecosystems and healthy people.
+
+*Sustainability*
 * Net-zero buildings using passive solar 
 * Member of renewable energy co-op
 * Food sovreignty through regenerative agriculture 
 
-**Stewardship**
+*Stewardship*
 * A community land trust will own the land permanently, and have a say in resale
 * The housing co-op will own the buildings and lease the land from the land trust
 * The land trust and other community stakeholders will be voting members of the co-op 
