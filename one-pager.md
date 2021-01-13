@@ -12,7 +12,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 *Resident Wellbeing*
 * Flexible commitment of renting
 * Security and control of traditional homeownership
-* Community of cohousing or ecovillage without financial inaccessibility or cultural conformity/ too intentional? 
+* Community of cohousing or ecovillage without inaccessibility
 
 *Democratic*
 * Housing co-op will own assets as a group, with residents as equal voting members
@@ -23,7 +23,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
-**Earth** We aim to live sustainably through community stewardship for a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf 
+**Earth** We aim to live sustainably through community stewardship for a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) 
 
 *Sustainable*
 * Net-zero buildings using passive solar 
