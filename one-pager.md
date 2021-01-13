@@ -28,7 +28,7 @@ Are you interested in a home that is more than just a place to live? We are form
 * *Ecological*
   * Net-zero buildings using passive solar 
   * Member of renewable energy co-op
-  * Food sovreignty through regenerative agriculture 
+  * Food sovereignty through regenerative agriculture 
 * *Stewardship*
   * A community land trust will own the land permanently, and have a say in resale
   * The housing co-op will own the buildings and lease the land from the land trust
