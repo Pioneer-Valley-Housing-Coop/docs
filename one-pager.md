@@ -1,6 +1,6 @@
 # Pioneer Valley Housing Co-op Launch!
 
-Are you interested in housing that is more than just a place to live? Perhaps a home? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We are currently looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. We would love to connect with like-minded people and organizations. 
+Are you in housing that is more than just a place to live? Perhaps a home? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment. We are currently looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. We would love to connect with like-minded people and organizations. 
 
 **Safe and Pleasant:** We aim to support community and resident wellbeing through balancing independence and interdependence.
 * *Community*
