@@ -28,6 +28,7 @@ We are looking for access to land either by donation, agreement or sale with the
 * The housing co-op will own the buildings and lease the land from the land trust
 * The land trust and other community stakeholders will be voting members of the co-op 
 * We are in conversation with [Mount Grace Land Conservation Trust](https://www.mountgrace.org/) to help find a property
-* Thank you so much for reading, we hope to hear from you!
+
+Thank you so much for reading, we hope to hear from you!
 
 ## [pvhousingcoop@gmail.com](pvhousingcoop@gmail.com)
