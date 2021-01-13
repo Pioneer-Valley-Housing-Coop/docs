@@ -23,7 +23,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
-**Earth** We aim to live sustainably through community stewardship for a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) 
+**Earth** We aim to live sustainably through community stewardship for a [just transition].(https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) 
 
 *Sustainable*
 * Net-zero buildings using passive solar 
