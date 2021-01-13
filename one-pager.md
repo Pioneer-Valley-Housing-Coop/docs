@@ -2,14 +2,17 @@
 
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
-**Community** We aim to support resident and community wellbeing through balancing independence and interdependence.
+**Safe and Pleasant** We aim to support resident and community wellbeing through balancing independence and interdependence.
+
+*Community*
 * Multiple private homes clustered around common spaces with shared resources  
 * Engaged locally through public access spaces and events
 * Room for creative projects and businesses
-* Benefits for residents: 
-  * Flexibility of renting
-  * Groundedness of traditional homeownership 
-  * Social life of cohousing/college
+
+*Residents*
+* Flexibility of renting
+* Groundedness of traditional homeownership 
+* Social life of cohousing/college
 
 **Equity** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
  
