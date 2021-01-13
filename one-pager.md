@@ -13,27 +13,23 @@ Are you interested in housing that fosters community, equity, sustainability, an
   * Social life of cohousing/college
 
 **Equity:** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
- 
-*Democratic*
-* Housing co-op will own assets as a group, with residents as equal voting members
-* Collective decision making and conflict mediation
-
-*Affordable* 
-* [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned on move out
-* Initial funds will be raised from grants and community investors, not residents
-* Residents will pay monthly costs to repay community investors
+* *Democratic*
+  * Housing co-op will own assets as a group, with residents as equal voting members
+  * Collective decision making and conflict mediation
+* *Affordable* 
+  * [Group equity](https://www.nasco.coop/development/handbook/equity) model will ensure low move in share, to be returned on move out
+  * Initial funds will be raised from grants and community investors, not residents
+  * Residents will pay monthly costs to repay community investors
 
 **Ecological:** We aim to live sustainably and steward land to promote healthy ecosystems and people.
-
-*Sustainability*
-* Net-zero buildings using passive solar 
-* Member of renewable energy co-op
-* Food sovreignty through regenerative agriculture 
-
-*Stewardship*
-* A community land trust will own the land permanently, and have a say in resale
-* The housing co-op will own the buildings and lease the land from the land trust
-* The land trust and other community stakeholders will be voting members of the co-op 
+* *Sustainability*
+  * Net-zero buildings using passive solar 
+  * Member of renewable energy co-op
+  * Food sovreignty through regenerative agriculture 
+* *Stewardship*
+  * A community land trust will own the land permanently, and have a say in resale
+  * The housing co-op will own the buildings and lease the land from the land trust
+  * The land trust and other community stakeholders will be voting members of the co-op 
 
 **Just**
 * Housing and land should be decommodified and stewarded by and for the community, not speculative profits.
