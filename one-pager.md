@@ -36,7 +36,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 
 *Just*
 * Housing and land should be decommodified and stewarded by and for the community, not speculative profits.
-* Closed-loop, regenerative systems to support abundance and resilience away from an extractive economy.
+* Closed-loop, regenerative systems to support abundance and resilience, away from an extractive economy.
 
 **Ways to Support**
 * We are looking for land access either by donation, agreement, or sale with the possibility of the landowner continuing occupancy. 
