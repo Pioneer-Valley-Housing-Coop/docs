@@ -25,7 +25,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 * Initial funds will be raised from grants and community investors, not residents
 * Residents will pay monthly costs to repay community investors
 
-**Ecological:** We aim to live sustainably and steward land to promote healthy ecosystems and healthy people.
+**Ecological:** We aim to live sustainably and steward land to promote healthy ecosystems and people.
 
 *Sustainability*
 * Net-zero buildings using passive solar 
