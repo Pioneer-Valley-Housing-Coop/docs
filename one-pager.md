@@ -2,7 +2,7 @@
 
 Are you interested in housing that fosters community, equity, sustainability, and stewardship for generations to come? What about a local alternative to renting and traditional homeownership? We are forming a group equity housing co-op to collectively invest in ourselves, our community, and the environment.
 
-**Community** We aim to support community and resident wellbeing through being democratic and affordable through our structure as a group equity housing co-op. 
+**Community** We see resident and comunity wellbeing as interdependent and stregnthened by common values and different backgrounds. We aim to be democratic and affordable by structuring as a group equity housing co-op. 
  
 *Community*
 * Multiple homes clustered around common spaces and shared resources  
@@ -12,7 +12,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 *Resident Wellbeing*
 * Flexible commitment of renting
 * Security and control of traditional homeownership
-* Community of cohousing or ecovillage without inaccessibility
+* Communal life of cohousing or ecovillage without inaccessibility
 
 *Democratic*
 * Housing co-op will own assets as a group, with residents as equal voting members
