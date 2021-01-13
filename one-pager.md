@@ -10,7 +10,7 @@ Are you interested in housing that fosters community, equity, sustainability, an
 *For Residents:*
 * Flexibility of renting
 * Groundedness of traditional homeownership 
-* Social life of cohousing or college
+* Social life of cohousing/college
 
 **Equity** We aim to be democratic and affordable by structuring as a group equity housing co-op. 
  
