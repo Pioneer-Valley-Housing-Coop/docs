@@ -5,12 +5,12 @@ Are you interested in a home that is more than just a place to live? We are form
 **Safe and Pleasant:** We aim to support community and resident wellbeing through balancing independence and interdependence.
 * *Community*
   * Multiple private homes clustered around common spaces with shared resources  
-  * Engaged locally through public access spaces and events
+  * Public access spaces and events 
   * Room for creative projects and businesses
 * *Residents*
   * Flexibility of renting
   * Groundedness of traditional homeownership 
-  * Social life of cohousing/college
+  * Social life of cohousing or college
 
 **Equitable:** We aim to be democratic, affordable and just by structuring as a group equity housing co-op. 
 * *Democratic*
@@ -24,9 +24,9 @@ Are you interested in a home that is more than just a place to live? We are form
   * Housing and land should be decommodified and stewarded by and for the community for generations to come, not speculative profits.
   * Closed-loop, regenerative systems to support abundance and resilience, as part of a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) away from an extractive economy.
 
-**Sustainable:** We aim to promote healthy ecosystems by partnering with a community land trust.
+**Sustainable:** We aim to promote healthy ecosystems and people by partnering with a community land trust.
 * *Ecological*
-  * Net-zero buildings using passive solar 
+  * Net-zero buildings using passive solar design 
   * Member of renewable energy co-op
   * Food sovereignty through regenerative agriculture 
 * *Stewardship*
