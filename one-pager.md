@@ -24,7 +24,7 @@ Are you interested in a home that is more than just a place to live? We are form
   * Housing and land should be decommodified and stewarded by and for the community for generations to come, not speculative profits.
   * Closed-loop, regenerative systems to support abundance and resilience, as part of a [just transition](https://movementgeneration.org/wp-content/uploads/2016/11/JT_booklet_English_SPREADs_web.pdf) away from an extractive economy.
 
-**Sustainable:** We aim to live sustainably and steward land to promote healthy ecosystems and people.
+**Sustainable:** We aim to promote healthy ecosystems by partnering with a community land trust.
 * *Ecological*
   * Net-zero buildings using passive solar 
   * Member of renewable energy co-op
