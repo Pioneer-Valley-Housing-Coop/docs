@@ -9,7 +9,7 @@ Are you interested in a home that is more than just a place to live? We are form
   * Room for creative projects and businesses
 * *Residents*
   * Flexibility of renting
-  * Groundedness of traditional homeownership 
+  * Stability of traditional homeownership 
   * Social life of cohousing or college
 
 **Equitable:** We aim to be democratic, affordable and just by structuring as a group equity housing co-op. 
